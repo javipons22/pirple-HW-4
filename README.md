@@ -1,4 +1,6 @@
-# Node js Master Class Homework assignment #3
+# Node js Master Class Homework assignment #4
+
+TODO: add cli documentation
 
 The app now includes a GUI for using it in a browser.
 
