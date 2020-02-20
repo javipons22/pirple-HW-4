@@ -1,0 +1,30 @@
+/lib/config.js
+# exclude everything
+/.data/*
+
+
+# exception to the rule
+!/.data/.gitkeep 
+!/.data/users
+!/.data/tokens
+!/.data/menus
+!/.data/cart
+!/.data/orders
+!/.data/menus/*
+
+/.data/users/*
+!/.data/users/.gitkeep
+
+
+/.data/tokens/*
+!/.data/tokens/.gitkeep
+
+/.data/cart/*
+!/.data/cart/.gitkeep
+
+/.data/orders/*
+!/.data/orders/.gitkeep
+
+
+
+
