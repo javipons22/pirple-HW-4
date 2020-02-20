@@ -5,7 +5,7 @@
 
 // Dependencies
 var server = require('./lib/server');
-var cli = require('lib/cli');
+var cli = require('./lib/cli');
 
 
 // Declare the app
