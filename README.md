@@ -1,6 +1,10 @@
 # Node js Master Class Homework assignment #4
 
-TODO: add cli documentation
+## CLI - How it works
+
+Use the GUI first in order to fill the app with order-users-tokens after setting it up.
+
+Then use the CLI and see available commands with "help" or "man"
 
 The app now includes a GUI for using it in a browser.
 
